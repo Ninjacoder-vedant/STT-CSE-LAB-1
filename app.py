@@ -1,6 +1,4 @@
 """This module performs calculations of 2 operands"""
-for i in range(10):
-    print(i)
 print("----Calculator----")
 print("Enter the digits")
 a = float(input())
